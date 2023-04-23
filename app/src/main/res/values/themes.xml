@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TimeStyle" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#FFC107</item>
+        <item name="colorSecondary">#3F51B5</item>
+    </style>
+
+    <style name="Theme.TimeStyle" parent="Base.Theme.TimeStyle" />
+</resources>
